@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Anna</string>
+    <string name="cart_string">Wallet: </string>
 </resources>
